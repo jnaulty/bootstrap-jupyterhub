@@ -1,0 +1,3 @@
+[submodule "jupyterhub-deploy-teaching"]
+	path = jupyterhub-deploy-teaching
+	url = git@github.com:jnaulty/jupyterhub-deploy-teaching.git
