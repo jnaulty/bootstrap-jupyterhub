@@ -44,7 +44,8 @@ look into more economical hosting options.
 
 As of now, we have some basic usage notebooks available
 
-Using Neural Engineering Data Consorium's PyStream package:
+Using Neural Engineering Data Consorium's
+[PyStream](https://www.isip.piconepress.com/projects/tuh_eeg/downloads/nedc_pystream/v1.0.1/) package:
 
 ![image](https://user-images.githubusercontent.com/6826729/79082691-3bbbc700-7cdd-11ea-8b39-8c569926c531.png)
 
