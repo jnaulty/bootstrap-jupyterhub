@@ -37,3 +37,17 @@ Then go into the `jupyterhub-deploy-teaching` directory update the `deploy.yml` 
 
 `ansible-playbook -i hosts deploy.yml`
 
+## Access and Usage
+
+To get access, ping me. Right now, the hosting costs are coming out of my pocket. If there is increased demand, I'll
+look into more economical hosting options.
+
+As of now, we have some basic usage notebooks available
+
+Using Neural Engineering Data Consorium's PyStream package:
+
+![image](https://user-images.githubusercontent.com/6826729/79082691-3bbbc700-7cdd-11ea-8b39-8c569926c531.png)
+
+Using mne-python's toolkit (thanks [Yannick R.](https://github.com/orgs/NeuroTechX/people/royyannick) for setting up this "Data Exploration" notebook)
+
+![image](https://user-images.githubusercontent.com/6826729/79082744-b553b500-7cdd-11ea-9d7c-5dade2136980.png)
